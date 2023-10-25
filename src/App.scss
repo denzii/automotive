@@ -1,0 +1,31 @@
+// imprort tff files from public folder here
+@font-face {
+  font-family: 'Panoptica Sans Bold';
+  src: url('../public/panoptica-sans-bold.ttf');
+};
+@font-face {
+  font-family: 'SF Movie Poster Bold';
+  src: url('../public/sf-movie-poster-bold.ttf');
+};
+@font-face {
+  font-family: 'Oswald Regular';
+  src: url('../public/oswald-regular.ttf');
+};
+@font-face {
+  font-family: 'Town 70 Accent Bold';
+  src: url('../public/town-70-accent-bold-1.ttf');
+};
+  
+// color variables here
+$color-hr: #F0F5F6;
+$color-text-1st: #C3C7C7;
+$color-text-2nd: #5E666A;
+$color-ground-emphasis: #ce722a;
+$color-ground-emphasis-2nd: #A01313;
+$color-background-gr2: #33383B;
+$color-background-gr1: #1A2126;
+$color-background-gr3: #272C31;
+$color-outline: #493C34;
+$color-icon-1st: #9A6939;
+$color-icon-2nd: #F27F29;
+
